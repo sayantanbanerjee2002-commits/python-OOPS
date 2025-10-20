@@ -1,0 +1,9 @@
+{
+    "type": "Archer",
+    "name": "Raju",
+    "health": 90,
+    "level": 1,
+    "experience": 0,
+    "agility": 80,
+    "accuracy": 90
+}
